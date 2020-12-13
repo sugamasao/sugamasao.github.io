@@ -9,7 +9,7 @@ title: sugamasao.github.io
 
 - [<i class="fa fa-caret-square-o-right"></i>おつかれシャワー](https://www.youtube.com/c/OtsukareShower) => [#108 @sugamasaoの職務経歴書](https://youtu.be/Soyz3a2jBFE) [#109 在宅勤務と体の衰え](https://youtu.be/vpGzZrW-a8E)
 - [<i class="fa fa-podcast"></i>ie69 焼きそばパン回](https://open.spotify.com/show/568wMxni7eTkp9FqhDGzfD)
-- [<i class="fa fa-microphone"</i>RubyKaigi Takeout 2020 感想戦＠仮想松本](https://smarthr.connpass.com/event/187270/) => [当日の動画](https://www.youtube.com/watch?v=TN5QVTtUHLk) [エントリ](https://tech.smarthr.jp/entry/2020/11/27/191438)
+- [<i class="fa fa-microphone"></i>RubyKaigi Takeout 2020 感想戦＠仮想松本](https://smarthr.connpass.com/event/187270/) => [当日の動画](https://www.youtube.com/watch?v=TN5QVTtUHLk) [エントリ](https://tech.smarthr.jp/entry/2020/11/27/191438)
 - [<i class="fa fa-microphone"></i>iCARE Dev Meetup #14](https://icare.connpass.com/event/189356/) => [資料](https://speakerdeck.com/sugamasao/ruby-history-of-my-life)
 - [<i class="fa fa-microphone"></i>Kaigi on Rails new](https://kaigionrails.doorkeeper.jp/events/109773) => [資料](https://speakerdeck.com/sugamasao/perfect-ruby-on-rails-v2)
 - [<i class="fa fa-microphone"></i>銀座Rails#20](https://ginza-rails.connpass.com/event/171333/) => [資料](https://speakerdeck.com/sugamasao/ruby-on-rails-6-dot-0-new-feature)
