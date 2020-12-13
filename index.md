@@ -3,10 +3,42 @@ layout: default
 title: sugamasao.github.io
 ---
 
-## Activety
+## Activity
+
+### 2020
+
+- [<i class="fa fa-caret-square-o-right"></i>おつかれシャワー](https://www.youtube.com/c/OtsukareShower) => [#108 @sugamasaoの職務経歴書](https://youtu.be/Soyz3a2jBFE) [#109 在宅勤務と体の衰え](https://youtu.be/vpGzZrW-a8E)
+- [<i class="fa fa-podcast"></i>ie69 焼きそばパン回](https://open.spotify.com/show/568wMxni7eTkp9FqhDGzfD)
+- [<i class="fa fa-microphone"</i>RubyKaigi Takeout 2020 感想戦＠仮想松本](https://smarthr.connpass.com/event/187270/) => [当日の動画](https://www.youtube.com/watch?v=TN5QVTtUHLk) [エントリ](https://tech.smarthr.jp/entry/2020/11/27/191438)
+- [<i class="fa fa-microphone"></i>iCARE Dev Meetup #14](https://icare.connpass.com/event/189356/) => [資料](https://speakerdeck.com/sugamasao/ruby-history-of-my-life)
+- [<i class="fa fa-microphone"></i>Kaigi on Rails new](https://kaigionrails.doorkeeper.jp/events/109773) => [資料](https://speakerdeck.com/sugamasao/perfect-ruby-on-rails-v2)
+- [<i class="fa fa-microphone"></i>銀座Rails#20](https://ginza-rails.connpass.com/event/171333/) => [資料](https://speakerdeck.com/sugamasao/ruby-on-rails-6-dot-0-new-feature)
+- [<i class="fa fa-book"></i>パーフェクト Ruby on Rails　【増補改訂版】](https://amzn.to/3a5VUSE)(技術評論社)
+
+### 2019
+
+- [<i class="fa fa-microphone"></i>とちぎruby会議08](http://regional.rubykaigi.org/tochigi08/) => [資料](https://speakerdeck.com/sugamasao/ruby-is-difficult)
+- [<i class="fa fa-book"></i>Ruby on Rails6エンジニア養成読本](https://amzn.to/3r2qGC6)(技術評論社)
+
+### 2018
+
+- [<i class="fa fa-book"></i>かんたんRuby](https://amzn.to/2Wd4J4S)(技術評論社)
+
+### 2017
+
+- [<i class="fa fa-book"></i>改訂版 パーフェクトRuby](https://amzn.to/2WdRpgw)(技術評論社)
+
+### 2016
+
+- [<i class="fa fa-microphone"></i>YAP(achimon)C::Asia Hachioji 2016 mid in Shinagawa LT](https://yapcasia8oji-2016mid.hachiojipm.org/) => [資料](https://speakerdeck.com/sugamasao/yapc8oji)
+
+### 2015
+
+- [<i class="fa fa-microphone"></i>Itamae Meetup #1](https://itamae.connpass.com/event/22857/presentation/) => [資料](https://speakerdeck.com/sugamasao/itamae-meetup-number-1)
 
 ### 2014
 
+- [<i class="fa fa-microphone"></i>渋谷Ruby会議01 LT](http://regional.rubykaigi.org/shibuya01/) => [資料](https://speakerdeck.com/sugamasao/supesufalsewei-zhi-tokayi-lun-sitakunai)
 - [<i class="fa fa-book"></i>パーフェクトRuby on Rails](http://amzn.to/1ntZkQy)(技術評論社)
 - [<i class="fa fa-book"></i>Webアプリエンジニア養成読本](http://amzn.to/1ntZpDB)(技術評論社)
 
